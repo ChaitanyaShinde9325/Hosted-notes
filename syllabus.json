@@ -1,0 +1,41 @@
+[
+  {
+    "subject": "Adv.Java",
+    "chapters": [
+      {
+        "chapter": "Unit 1 - AWT",
+        "topics": [
+          "AWT"
+        ]
+      },
+      {
+        "chapter": "Unit 2- Applets",
+        "topics": [
+          "3.Program on Applet",
+          "All About Applets",
+          "Applet Programming"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "DBMS - SQL",
+    "chapters": [
+      {
+        "chapter": "Intoduction to DBMS",
+        "topics": [
+          "Advantages and Applications of DBMS",
+          "Data, Information, and Database",
+          "Database Management System (DBMS)",
+          "Database System Environment",
+          "DBMS Users and Roles",
+          "Drawbacks of File System",
+          "File System vs Database Management System (DBMS)",
+          "File System",
+          "Schema and Instance in DBMS",
+          "Types of DBMS Architecture"
+        ]
+      }
+    ]
+  }
+]

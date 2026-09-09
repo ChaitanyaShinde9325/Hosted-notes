@@ -1,0 +1,130 @@
+{
+  "subjects": [
+    {
+      "id": "mstwucdho3c2i",
+      "name": "Adv.Java",
+      "color": "#6366F1",
+      "createdAt": 1786770198053,
+      "updatedAt": 1786770198053,
+      "chapters": [
+        {
+          "id": "mstwuszl6j2bb",
+          "name": "Unit 1 - AWT",
+          "createdAt": 1786770219585,
+          "updatedAt": 1786770219585,
+          "topics": [
+            {
+              "id": "mstxawqjom1te",
+              "name": "AWT",
+              "createdAt": 1786770970939,
+              "updatedAt": 1786771983151
+            }
+          ]
+        },
+        {
+          "id": "mstxy4xejlh32",
+          "name": "Unit 2- Applets",
+          "createdAt": 1786772054642,
+          "updatedAt": 1786772054642,
+          "topics": [
+            {
+              "id": "msty9uiqctt1y",
+              "name": "3.Program on Applet",
+              "createdAt": 1786772601025,
+              "updatedAt": 1786772635151
+            },
+            {
+              "id": "mstxyhiyrou46",
+              "name": "All About Applets",
+              "createdAt": 1786772070970,
+              "updatedAt": 1786772134484
+            },
+            {
+              "id": "msty1n7tgxsh6",
+              "name": "Applet Programming",
+              "createdAt": 1786772218313,
+              "updatedAt": 1786772372971
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mrw2i3b3e8sum",
+      "name": "DBMS - SQL",
+      "color": "#EF4444",
+      "createdAt": 1784723854143,
+      "updatedAt": 1784723854143,
+      "chapters": [
+        {
+          "id": "mrw2iikvrfgqo",
+          "name": "Intoduction to DBMS",
+          "createdAt": 1784723873935,
+          "updatedAt": 1784723873935,
+          "topics": [
+            {
+              "id": "mrw309xspznvx",
+              "name": "Advantages and Applications of DBMS",
+              "createdAt": 1784724702544,
+              "updatedAt": 1784724822391
+            },
+            {
+              "id": "mrw2jmaqte1te",
+              "name": "Data, Information, and Database",
+              "createdAt": 1784723925410,
+              "updatedAt": 1784724086383
+            },
+            {
+              "id": "mrw2xnuagklfo",
+              "name": "Database Management System (DBMS)",
+              "createdAt": 1784724580594,
+              "updatedAt": 1784724615396
+            },
+            {
+              "id": "mrw34en7vacyo",
+              "name": "Database System Environment",
+              "createdAt": 1784724895267,
+              "updatedAt": 1784724996101
+            },
+            {
+              "id": "mrw36zcbe6u6n",
+              "name": "DBMS Users and Roles",
+              "createdAt": 1784725015403,
+              "updatedAt": 1784725184070
+            },
+            {
+              "id": "mrw2t5w56nvx4",
+              "name": "Drawbacks of File System",
+              "createdAt": 1784724370709,
+              "updatedAt": 1784724403005
+            },
+            {
+              "id": "mrw2ytyi5wy7f",
+              "name": "File System vs Database Management System (DBMS)",
+              "createdAt": 1784724635178,
+              "updatedAt": 1784724658691
+            },
+            {
+              "id": "mrw2obcqj6lmd",
+              "name": "File System",
+              "createdAt": 1784724144506,
+              "updatedAt": 1784724180064
+            },
+            {
+              "id": "mrw3bm632gepc",
+              "name": "Schema and Instance in DBMS",
+              "createdAt": 1784725231611,
+              "updatedAt": 1784894620907
+            },
+            {
+              "id": "mrw3eby8kdfbc",
+              "name": "Types of DBMS Architecture",
+              "createdAt": 1784725358336,
+              "updatedAt": 1784725481341
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
